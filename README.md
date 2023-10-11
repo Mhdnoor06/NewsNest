@@ -41,7 +41,7 @@ To run the backend server, follow these steps:
 2. Start the backend server using Node.js:
 
 
-Your backend server will be running at a specific URL (e.g., `http://localhost:8081`). Make sure to update the frontend code with the correct backend URL.
+Your backend server will be running at a specific URL (e.g., `http://localhost:5000`). Make sure to update the frontend code with the correct backend URL.
 
 ## Frontend Setup
 
